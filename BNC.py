@@ -1,6 +1,6 @@
 #<\>!python3.11
 import os,platform,time
-
+os.system('mkdir BNC-OK')
 bitt=platform.architecture()[0]
 
 if bitt=="32bit":
